@@ -21,5 +21,4 @@ Not for exact faced problems, but I learned a lot about how to organize codes an
 
 ### 4. Referenced codes
 
-The source codes of this piece:
-[](https://git.tmp.si/luka/ilex/src/branch/main/scd/1.johchow.scd)
+[The source codes of this piece](https://git.tmp.si/luka/ilex/src/branch/main/scd/1.johchow.scd)
